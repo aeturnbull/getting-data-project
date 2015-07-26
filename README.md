@@ -5,7 +5,6 @@ Submitted by Alison E. Turnbull on July 26, 2015
 
 The file run_analysis.R contains the code I used to download the Human Activity Recognition Using Smartphones Data Set from the UCI website, merge the training and test sets, and extract the mean and standard deviation of 86 measures obtained on 30 volunteers performing 6 activities.  The resulting dataset contains 180 rows with each row containing data on a unique combition of activity and study subject (30 volunteers x 6 activities).  A codebook containing a description of each of the variables in this resulting dataset is provided at the end of this file.  Additional information about the Human Activity Recognition Using Smartphones Data Set is also provided below. 
 
-==================================================================================================
 CODEBOOK
 ==================================================================================================
 Column	Variable name		  	Definition
